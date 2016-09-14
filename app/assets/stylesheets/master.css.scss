@@ -3,6 +3,11 @@
 @import 'https://fonts.googleapis.com/css?family=Knewave|Nothing+You+Could+Do';
 @import 'https://fonts.googleapis.com/css?family=Pacifico';
 
+body {
+  background: url('frenchstucco.png');
+  /* Helvetica/Arial-based sans serif stack */
+font-family: Frutiger, "Frutiger Linotype", Univers, Calibri, "Gill Sans", "Gill Sans MT", "Myriad Pro", Myriad, "DejaVu Sans Condensed", "Liberation Sans", "Nimbus Sans L", Tahoma, Geneva, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
 
 .navbar-inverse .navbar-brand {
   color: #E3E85A;
